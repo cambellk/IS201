@@ -1,0 +1,66 @@
+/* divs, classes, etc */
+.common{ 
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 20px;
+}
+
+.header{ 
+    text-align: center;
+    height: 100px;
+    background-color: blue;
+    color: whitesmoke;
+    line-height: 100px;
+}
+
+.mainbody{ 
+    background-color: lightblue;
+
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    left: 1px;
+    right:1px;
+    height: 25px;
+    padding-top: 15px;
+    text-align: center;
+
+}
+
+img{
+    display:block;
+    margin-left: 20;
+    margin-right: auto;
+    width: 15%;
+
+}
+nav{ 
+    background-color: navy;
+    padding: 10px;
+    overflow: hidden;
+    text-align: right;
+}
+
+nav a{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+nav a:hover{
+    background-color: blue;
+}
+
+.bigger{
+font-size: 25px;
+font-style: bold;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
